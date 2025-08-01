@@ -44,6 +44,7 @@ nav a {
   padding: 4rem 2rem;
   max-width: 1200px;
   margin: auto;
+  text-align: center;
 }
 .properties {
   display: grid;

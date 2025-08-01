@@ -1,14 +1,13 @@
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  color: #1E1E1E;
-  background-color: #fff;
+  color: #fff;
+  background-color: #000;
 }
 header {
   position: sticky;
   top: 0;
-  background: #fff;
-  border-bottom: 1px solid #eee;
+  background: #111;
   display: flex;
   justify-content: space-between;
   align-items: center;
